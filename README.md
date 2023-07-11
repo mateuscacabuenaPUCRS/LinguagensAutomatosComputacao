@@ -1,2 +1,6 @@
-# LinguagensAutomatosComputacao
-Disciplina que tem o objetivo de ensinar os fundamentos da teoria da computação, incluindo linguagens formais, autômatos e gramáticas. O curso explora como esses conceitos teóricos podem ser aplicados para modelar e solucionar problemas computacionais.
+# Linguagens, Autômatos e Computação
+
+-  Professor: Júlio Machado
+-  Código: 46515-04
+-  Semestre: 2023/1
+-  Nota: 7.6
